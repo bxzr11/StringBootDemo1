@@ -10,4 +10,7 @@ public class SpringbootpoiApplication {
 		SpringApplication.run(SpringbootpoiApplication.class, args);
 	}
 
+	public  void demo1(){
+		System.out.println("测试方法");
+	}
 }
